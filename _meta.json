@@ -1,0 +1,11 @@
+{
+  "name": "douyin-profit-calculator",
+  "version": "1.0.0",
+  "description": "抖音利润计算器 - 自动计算抖音销售利润",
+  "author": "Custom Skill",
+  "license": "MIT",
+  "keywords": ["douyin", "profit", "calculator", "ecommerce", "sales"],
+  "homepage": "",
+  "repository": "",
+  "dependencies": {}
+}
